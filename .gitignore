@@ -1,0 +1,13 @@
+# Ignore backend config
+quickkartbackend/db.php
+
+# Ignore environment files
+*.env
+
+# Ignore node modules and build output
+node_modules/
+build/
+dist/
+
+# Ignore log files
+*.log
